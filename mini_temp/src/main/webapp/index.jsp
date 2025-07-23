@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인덱스페이지</title>
+<title>index.jsp</title>
 </head>
 <body>
 	
