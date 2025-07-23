@@ -4,12 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title> 하잉 </title>
 </head>
 <body>
-	<div class="container">
-		pr 테스트 합니다
-		힘들어
-	</div>
 </body>
 </html>

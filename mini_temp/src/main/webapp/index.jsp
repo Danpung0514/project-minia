@@ -7,6 +7,6 @@
 <title>인덱스 아닌데</title>
 </head>
 <body>
-	
+	<div></div>	
 </body>
 </html>
