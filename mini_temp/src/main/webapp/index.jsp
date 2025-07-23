@@ -7,6 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
-	
+	<div></div>	
 </body>
 </html>
