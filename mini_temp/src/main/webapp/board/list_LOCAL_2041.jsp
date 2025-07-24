@@ -40,7 +40,5 @@
 		</tbody>
 	</table>
 	
-	<p>윤제</p>
-
 </body>
 </html>

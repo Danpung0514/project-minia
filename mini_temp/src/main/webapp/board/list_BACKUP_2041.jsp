@@ -17,6 +17,7 @@
 
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>게시판</h1>
 	
 	<table>

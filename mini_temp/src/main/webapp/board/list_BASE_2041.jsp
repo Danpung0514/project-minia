@@ -4,9 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>명단 인덱스</title>
+<title> 하잉 </title>
 </head>
 <body>
-	<h1>각자 p요소로 이름을 1줄만 적어서 PR보내세요</h1>
 </body>
 </html>
