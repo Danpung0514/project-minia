@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>인덱스 아닌데</title>
+<title>명단 인덱스</title>
 </head>
 <body>
-	<div></div>	
+	<h1>각자 p요소로 이름을 1줄만 적어서 PR보내세요</h1>
 </body>
 </html>
